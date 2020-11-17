@@ -1,7 +1,7 @@
 # Capstone2
 
 Proposal 1:
-Can I find keywords in reddit posts to make a model to predict the success of it?
+Reddit is social media plateform that I use a lot. I play a lot of games and I am active on the fourms. On reddit there are upvotes and downvotes for posts and commits. Can I find keywords in reddit posts to make a model to predict the success of it?
 reddit.com
 
 Proposal 2:
